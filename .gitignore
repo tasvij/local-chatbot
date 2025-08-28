@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Model files (large files)
+*.bin
+*.safetensors
+*.h5
+
+# Logs
+*.log
+conversations.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Config files (optional - you might want to keep these)
+# config.json
