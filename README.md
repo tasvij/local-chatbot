@@ -40,6 +40,28 @@ A Python-based command-line chatbot using Hugging Face's Transformers library wi
 
 
 
+\## Screenshot of the chatbot conversation
+   <img width="668" height="340" alt="Image" src="https://github.com/user-attachments/assets/713a95ee-0f3f-4869-bcba-c0c3cf25db6f" />
+
+
+Example conversation showing contextual memory:
+
+
+
+```
+
+User: What is the capital of France?
+
+Bot: The capital of France is Paris.
+
+
+
+User: And what about Italy?
+
+Bot: The capital of Italy is Rome
+
+
+
 \## Setup
 
 
